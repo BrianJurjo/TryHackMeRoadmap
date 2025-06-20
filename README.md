@@ -1,6 +1,6 @@
 # List of 350+ Free TryHackMe Rooms for Cybersecurity Enthusiasts 🌐
 
-**This repository contains a comprehensive list of 350+ free rooms available on TryHackMe (THM) to help you dive into the world of cybersecurity, whether you’re a beginner or looking to sharpen specific skills. TryHackMe offers guided, hands-on rooms that simulate real-world scenarios, making it a valuable resource for anyone interested in network security, penetration testing, web application hacking, and more.**
+**This repository contains a comprehensive list of 350+ ~~free~~** *As of June 2025 some rooms are <ins>premium</ins> and some rooms are ~~private~~* **rooms available on TryHackMe (THM) to help you dive into the world of cybersecurity, whether you’re a beginner or looking to sharpen specific skills. TryHackMe offers guided, hands-on rooms that simulate real-world scenarios, making it a valuable resource for anyone interested in network security, penetration testing, web application hacking, and more.**
 
 **Features**:
 
@@ -69,7 +69,7 @@
 
 - [x] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-- [ ] ~~[TryHackMe | Welcome](https://tryhackme.com/room/welcome)~~
+- [ ] ~~[TryHackMe | Welcome](https://tryhackme.com/room/welcome)~~ Private
 
 - [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
@@ -81,7 +81,7 @@
 
 - [x] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
-- [ ] ~~[TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)~~
+- [ ] ~~[TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)~~ Private
 
 - [x] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
@@ -89,15 +89,15 @@
 
 ---
 
-- [ ] ~~[TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)~~
+- [ ] ~~[TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)~~ Private
 
 - [x] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
 - [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+- [ ] <ins>[TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)</ins> Premium
 
-- [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+- [ ] <ins>[TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)</ins> Premium
 
 ## Windows Fundamentals
 
